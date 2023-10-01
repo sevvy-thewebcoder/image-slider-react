@@ -1,9 +1,9 @@
 .slide {
   min-width: 300px;
   min-height: 200px;
-  width: 85vw;
-  height: 56.67vw;
-  max-width: 650px;
+  width: calc(100vw - 2rem);
+  height: calc(66.67vw - 2rem);
+  max-width: 750px;
   max-height: 433px;
   border-radius: 5px;
   overflow: hidden;
